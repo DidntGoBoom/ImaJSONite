@@ -1,10 +1,4 @@
 {
-  "things": [
-    {
-      "id" : 1,
-       "title": "watch your language"
-    }
-  ],
   "profile": {
     "name": "typicode",
     "SerialNo": "4567898765456789"
