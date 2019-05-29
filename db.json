@@ -2,5 +2,15 @@
   "profile": {
     "name": "typicode",
     "SerialNo": "4567898765456789"
-  }
+  },
+  "things": [
+    {
+      "id": 1,
+      "title": "watch your language"
+    }
+    {
+      "id": 2,
+      "title": "language your watch"
+    }
+  ]
 }
