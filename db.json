@@ -3,14 +3,18 @@
     "name": "typicode",
     "SerialNo": "4567898765456789"
   },
-  "things": [
+  "songs": [
     {
-      "id": 1,
-      "title": "watch your language"
+      "artist": "Pink Floyd",
+      "title": "Comfortably Numb"
     },
     {
-      "id": 2,
-      "title": "language your watch"
+      "artist": "Coldplay",
+      "title": "Clocks"
+    },
+    {
+      "artist": "Snow Patrol",
+      "title": "Chasing Cars"
     }
   ]
 }
