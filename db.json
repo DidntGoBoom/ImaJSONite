@@ -16,5 +16,43 @@
       "artist": "Snow Patrol",
       "title": "Chasing Cars"
     }
+  ],
+  "Temperature": [
+    {
+      "January": 48
+    },
+    {
+      "February": 53
+    },
+    {
+      "March": 58
+    },
+    {
+      "April": 65
+    },
+    {
+      "May": 73
+    },
+    {
+      "June": 82
+    },
+    {
+      "July": 90
+    },
+    {
+      "August": 90
+    },
+    {
+      "September": 84
+    },
+    {
+      "October": 72
+    },
+    {
+      "November": 57
+    },
+    {
+      "December": 48
+    }
   ]
 }
