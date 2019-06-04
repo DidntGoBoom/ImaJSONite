@@ -18,41 +18,65 @@
     }
   ],
   "Temperature": [
-    {
-      "January": 48
+      "January"
+{
+"High": 48,
+"Low":28
     },
-    {
-      "February": 53
+      "February"
+{
+"High": 53,
+"Low":30
     },
-    {
-      "March": 58
+      "March"
+{
+"High": 58,
+"Low":33
     },
-    {
-      "April": 65
+      "April"
+{
+"High": 65,
+"Low":37
     },
-    {
-      "May": 73
+      "May"
+{
+"High": 73,
+"Low":44
     },
-    {
-      "June": 82
+      "June"
+{
+"High": 82,
+"Low":50
     },
-    {
-      "July": 90
+      "July"
+{
+"High": 90,
+"Low":56
     },
-    {
-      "August": 90
+      "August"
+{
+"High": 90,
+"Low":55
     },
-    {
-      "September": 84
+      "September"
+{
+"High": 84,
+"Low": 50
     },
-    {
-      "October": 72
+      "October"
+{
+"High": 72,
+"Low":41
     },
-    {
-      "November": 57
+      "November"
+{
+"High": 57,
+"Low":32
     },
-    {
-      "December": 48
+      "December"
+{
+"High": 48,
+"Low":27
     }
   ]
 }
