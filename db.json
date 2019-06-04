@@ -17,63 +17,101 @@
       "title": "Chasing Cars"
     }
   ],
-  "Temperature": {
-      "January"
+ "Temperature": [
+    {
+      "January": 48
+    },
+    {
+      "February": 53
+    },
+    {
+      "March": 58
+    },
+    {
+      "April": 65
+    },
+    {
+      "May": 73
+    },
+    {
+      "June": 82
+    },
+    {
+      "July": 90
+    },
+    {
+      "August": 90
+    },
+    {
+      "September": 84
+    },
+    {
+      "October": 72
+    },
+    {
+      "November": 57
+    },
+    {
+      "December": 48
+    }
+  ],
+  "HiLoTemp": {
+      "January":
 {
 "High": 48,
 "Low":28
     },
-      "February"
+      "February":
 {
 "High": 53,
 "Low":30
     },
-      "March"
+      "March":
 {
 "High": 58,
 "Low":33
     },
-      "April"
+      "April":
 {
 "High": 65,
 "Low":37
     },
-      "May"
+      "May":
 {
 "High": 73,
 "Low":44
     },
-      "June"
+      "June":
 {
 "High": 82,
 "Low":50
     },
-      "July"
+      "July":
 {
 "High": 90,
 "Low":56
     },
-      "August"
+      "August":
 {
 "High": 90,
 "Low":55
     },
-      "September"
+      "September":
 {
 "High": 84,
 "Low": 50
     },
-      "October"
+      "October":
 {
 "High": 72,
 "Low":41
     },
-      "November"
+      "November":
 {
 "High": 57,
 "Low":32
     },
-      "December"
+      "December":
 {
 "High": 48,
 "Low":27
