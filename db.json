@@ -18,65 +18,41 @@
     }
   ],
   "Temperature": [
-    "January":
     {
-      "High": 48,
-      "Low":28
+      "January": 48
     },
-    "February":
     {
-      "High": 53,
-      "Low":30
+      "February": 53
     },
-    "March":
     {
-      "High": 58,
-      "Low":33
+      "March": 58
     },
-    "April":
     {
-      "High": 65,
-      "Low":37
+      "April": 65
     },
-    "May":
     {
-      "High": 73,
-      "Low":44
+      "May": 73
     },
-    "June":
     {
-      "High": 82,
-      "Low":50
+      "June": 82
     },
-    "July":
     {
-      "High": 90,
-      "Low":56
+      "July": 90
     },
-    "August":
     {
-      "High": 90,
-      "Low":55
+      "August": 90
     },
-    "September":
     {
-      "High": 84,
-      "Low": 50
+      "September": 84
     },
-    "October":
     {
-      "High": 72,
-      "Low":41
+      "October": 72
     },
-    "November":
     {
-      "High": 57,
-      "Low":32
+      "November": 57
     },
-    "December":
     {
-      "High": 48,
-      "Low":27
+      "December": 48
     }
   ]
 }
